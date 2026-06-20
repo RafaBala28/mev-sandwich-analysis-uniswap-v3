@@ -2,7 +2,7 @@
 
 This repository contains the code and supporting material for the seminar paper:
 
-**"An Economic Analysis of MEV Extraction on Uniswap V3: Sandwich Attacks and Bot Profitability"**
+**"An Economic Analysis of MEV Extraction on Uniswap V3: Sandwich Attacks, Bot Profitability, and Victim Losses"**
 
 conducted at the University of Basel under the supervision of Prof. Dr. Fabian Schär.
 
