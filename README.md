@@ -101,34 +101,12 @@ Victim losses are decomposed into:
 
 ---
 
-## Repository Structure
-
-```text
-paper/
-    Seminar_Paper.pdf
-
-data_collection/
-    collect_swaps.py
-    decode_swap_events.py
-
-analysis/
-    01_data_cleaning.R
-    02_sandwich_detection.R
-    03_profit_calculation.R
-    04_victim_damage.R
-    05_builder_analysis.R
-
-figures/
-```
-
 ## Technologies
 
 - Python
 - R
 - Ethereum RPC
 - Uniswap V3
-- dplyr
-- ggplot2
 - Blockchain Analytics
 
 ---
