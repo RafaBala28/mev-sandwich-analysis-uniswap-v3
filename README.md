@@ -19,7 +19,7 @@ The analysis focuses on:
 - Victim losses
 - Builder-searcher relationships
 - Market concentration among attackers and builders
-
+- The data is available at the following link: https://filesender.switch.ch/filesender2/?s=download&token=8d1e7646-2416-4f72-b4bc-c22cc64beef6
 ---
 
 ## Research Questions
